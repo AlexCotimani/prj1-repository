@@ -3,7 +3,7 @@
 	color: black;
     border: 1px solid blue;
     text-align: center;
-    background-color: lightgreen;
+    background-color: turquoise;
 }
 .my-class {
 	color: red;
@@ -16,3 +16,18 @@
 }
 .id {
 }
+* {
+    margin: 0;
+    padding: 0;
+    border-width: thick;
+}.body {
+    font-family: 'Gloria Hallelujah', cursive;
+    ;
+    background-image: url(../images/bg.jpg);
+}
+.my-image {
+	margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+ 
