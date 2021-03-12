@@ -1,4 +1,9 @@
 @charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    
+}
 .my-container {
 	color: black;
     border: 1px solid blue;
@@ -16,11 +21,7 @@
 }
 .id {
 }
-* {
-    margin: 0;
-    padding: 0;
-    border-width: thick;
-}.body {
+.body {
     font-family: 'Gloria Hallelujah', cursive;
     ;
     background-image: url(../images/bg.jpg);
